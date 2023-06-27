@@ -1,4 +1,9 @@
-# QR Generator CLI 📜
+# QR Generator CLI App📜
+
+<img src="https://github.com/hritikd3/qr-code-generated/assets/86347286/45e14c56-1df8-41bf-9b0e-a2ca17808b58" height="70%" width="70%">
+<hr> <br>
+<img src="https://github.com/hritikd3/qr-code-generated/assets/86347286/2a736a33-86fb-4206-a708-9d25ab241876" height="70%" width="70%">
+
 
 
 ### QR Generator CLI is a command-line application built using Node.js that allows users to generate QR codes easily. This repository contains the source code for the QR Generator CLI app.
