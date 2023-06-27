@@ -42,5 +42,5 @@ or integrate the QR code generation functionality into your own projects.
 Contributions are welcome! If you find any issues or have ideas to improve the QR Generator CLI, please open an issue or submit a pull request. Make sure to follow the existing code style and provide detailed information about your proposed changes.
 
 Contact 📞
-For any inquiries or feedback, please reach out to hritikf@gmail.com.
+For any inquiries or feedback, please reach out to hritikdangi3@gmail.com.
 
